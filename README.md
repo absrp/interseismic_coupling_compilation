@@ -29,7 +29,7 @@ Sumatra - Chlieh et al. (2008)
 
 ### Example coupling map
 Based on the data in Stevens and Avouac (2015)
-![image](https://github.com/absrp/interseismic_coupling_compilation/assets/52015046/a5b31ca5-94d2-4d4a-9637-8dc625f172a0)
+![image](https://github.com/absrp/interseismic_coupling_compilation/assets/52015046/56140578-fb6e-4a82-b245-7fb01ed34f79)
 
 
 ### Prerequisites
