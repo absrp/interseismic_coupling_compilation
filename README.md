@@ -27,9 +27,12 @@ Himalaya - Stevens and Avouac (2015)
 
 Sumatra - Chlieh et al. (2008)
 
+Cascadia - Michel et al. (2019)
+
 ### Example coupling map
 Based on the data in Stevens and Avouac (2015)
-![image](https://github.com/absrp/interseismic_coupling_compilation/assets/52015046/56140578-fb6e-4a82-b245-7fb01ed34f79)
+<img width="777" alt="image" src="https://github.com/absrp/interseismic_coupling_compilation/assets/52015046/1d26d71f-9b49-48a7-adc5-38c092248894">
+
 
 
 ### Prerequisites
