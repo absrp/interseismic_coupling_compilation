@@ -20,7 +20,8 @@ A set of scripts to plot and analyze the distribution of interseismic coupling o
 <!-- GETTING STARTED -->
 ## Getting Started
 
-The data is contained in xlsx file. It currently contains the distribution of interseismic coupling in Stevens and Avouac (2015) and Chlieh et al. (2008) only but will be expanded to incorporate additional datasets. The coupling maps for each subduction zone in the xlsx file can be plotted by running the interseismic_coupling_plotter Jupyter Notebook. I intend to improve the graphics in the next while.
+The data is contained in xlsx file. It currently contains the distribution of interseismic coupling in Stevens and Avouac (2015) and Chlieh et al. (2008) only but will be expanded to incorporate additional datasets. The coupling maps for each subduction zone in the xlsx file can be plotted by running the interseismic_coupling_plotter Jupyter Notebook.
+
 Subduction zones and compilation reference:
 
 Himalaya - Stevens and Avouac (2015)
@@ -29,10 +30,11 @@ Sumatra - Chlieh et al. (2008)
 
 Cascadia - Michel et al. (2019)
 
+Chile and Peru - Saillard et al. (2017)
+
 ### Example coupling map
 Based on the data in Stevens and Avouac (2015)
 <img width="777" alt="image" src="https://github.com/absrp/interseismic_coupling_compilation/assets/52015046/1d26d71f-9b49-48a7-adc5-38c092248894">
-
 
 
 ### Prerequisites
@@ -48,6 +50,11 @@ Please report suggestions and issues:
 
 Project Link: [[https://github.com/absrp/subduction_paleoseismology](https://github.com/absrp/interseismic_coupling_compilation)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Acknowledgements
+I am grateful to Mohamed Chlieh and Juan Carlos Villegas for sharing their coupling data for the Chile and Peru sections of the Andean Megathrust respectively, and for Sylvain Michel for sharing his coupling data for Cascadia. 
+
+
 
 
 
