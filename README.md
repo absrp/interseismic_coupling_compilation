@@ -20,7 +20,7 @@ A set of scripts to plot and analyze the distribution of interseismic coupling o
 <!-- GETTING STARTED -->
 ## Getting Started
 
-The data is contained in xlsx file. It currently contains the distribution of interseismic coupling in Stevens and Avouac (2015) and Chlieh et al. (2008) only but will be expanded to incorporate additional datasets. The coupling maps for each subduction zone in the xlsx file can be plotted by running the interseismic_coupling_plotter Jupyter Notebook.
+The data is contained in xlsx file. The spreadsheet will slowly be expanded to incorporate additional datasets. The coupling maps for each subduction zone in the xlsx file can be plotted by running the interseismic_coupling_plotter Jupyter Notebook.
 
 Subduction zones and compilation reference:
 
